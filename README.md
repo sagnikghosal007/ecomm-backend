@@ -140,7 +140,7 @@ POST /orders/place/1
 ## 👨‍💻 Author
 
 **Sagnik Ghosal**  
-Java Full Stack Developer | Passionate about scalable backend systems
+Java Full Stack Developer(Backend major) | Passionate about scalable backend systems
 
 ---
 
